@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Hello there.
 
-
+hi
 =======
 Hi from Bert
 Bert's changes on bertsfeature branch
